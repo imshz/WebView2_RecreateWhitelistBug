@@ -68,7 +68,7 @@ namespace WebView2.RecreateWhitelistBug
             }
         }
 
-        private string _runtimePath = @"C:\Program Files (x86)\NDLO CIS\Microsoft WebView2 Runtime";
+        private string _runtimePath = @"C:\temp\Microsoft WebView2 Runtime";
         public string RuntimePath
         {
             get { return _runtimePath; }
